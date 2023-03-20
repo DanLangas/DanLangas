@@ -20,4 +20,4 @@ I'm an Information Technology Engineer at PwC. I am taking Master's courses in A
 
 ## Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=langas-nicu-daniel&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flangas-nicu-daniel-bb5708bb)](https://www.linkedin.com/in/langas-nicu-daniel-bb5708bb/)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=✔️langas-nicu-daniel&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flangas-nicu-daniel-bb5708bb)](https://www.linkedin.com/in/✔️langas-nicu-daniel-bb5708bb/)
