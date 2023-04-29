@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanLangas&label=Profile%20views&color=0e75b6&style=flat" alt="dlangas" /> </p>
 
-I'm an Information Technology Engineer at PwC. I am taking Master's courses in AI and DS.
+I am a systems engineer specializing in software and IT management for mid-sized and large clients. I have extensive experience overseeing the development, implementation and management of information technology systems that improve accessibility and resolve networking issues. This experience has helped me develop a range of relevant skills, including an in-depth knowledge of Linux and Unix server architecture, confident project leadership and familiarity with a range of technological applications. Being an effective systems engineer requires a mastery of such skills, and I am dedicated to applying them.
 
 ![Langas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanLangas&show_icons=true)
 
